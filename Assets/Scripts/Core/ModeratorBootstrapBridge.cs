@@ -23,7 +23,11 @@ public static class ModeratorBootstrapBridge
         }
 
         // Search by likely component (class name may vary) - try to find a Canvas with "Moderator" in name
+#if UNITY_2021_2_OR_NEWER
+        var allCanvases = UnityEngine.Object.FindObjectsByType<Canvas>(FindObjectsSortMode.None);
+#else
         var allCanvases = GameObject.FindObjectsOfType<Canvas>();
+#endif
         foreach (var c in allCanvases)
         {
             if (c.gameObject.name.ToLower().Contains("moderator"))

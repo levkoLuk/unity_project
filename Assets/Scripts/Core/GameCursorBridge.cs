@@ -16,7 +16,11 @@ public static class GameCursorBridge
         try
         {
             // Best-effort: look for a component named GameCursor and call SetCursorForUI
+#if UNITY_2021_2_OR_NEWER
+            var all = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(FindObjectsSortMode.None);
+#else
             var all = GameObject.FindObjectsOfType<MonoBehaviour>();
+#endif
             foreach (var m in all)
             {
                 var tname = m.GetType().Name;
@@ -49,7 +53,11 @@ public static class GameCursorBridge
     {
         try
         {
+#if UNITY_2021_2_OR_NEWER
+            var all = UnityEngine.Object.FindObjectsByType<MonoBehaviour>(FindObjectsSortMode.None);
+#else
             var all = GameObject.FindObjectsOfType<MonoBehaviour>();
+#endif
             foreach (var m in all)
             {
                 var tname = m.GetType().Name;
