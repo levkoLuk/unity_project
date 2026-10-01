@@ -8,6 +8,7 @@ using UnityEngine.UI;
 /// Non-invasive bridge: find existing Delete/Block UI and moderation methods and
 /// call QuestManager.CompleteQuest("quest_01_why_alex") when a real moderation action occurs.
 /// Designed for Stage-2 vertical slice (best-effort wiring).
+/// Uses reflection to avoid compile-time dependency on QuestManager type.
 /// </summary>
 [DefaultExecutionOrder(500)]
 public class PostModerationBridge : MonoBehaviour
@@ -15,9 +16,16 @@ public class PostModerationBridge : MonoBehaviour
     // Quest id to complete for the first investigation
     public string firstQuestId = "quest_01_why_alex";
 
+    // cached reflection objects for QuestManager
+    static object _questManagerInstance;
+    static MethodInfo _questCompleteMethod;
+    static bool _questReflectionInitialized = false;
+    static readonly object _qrLock = new object();
+
     // scan once at Start
     void Start()
     {
+        TryInitQuestReflection(); // attempt to init early
         try
         {
             ScanSceneAndBind();
@@ -64,12 +72,9 @@ public class PostModerationBridge : MonoBehaviour
                 var mi = t.GetMethod(mn, BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
                 if (mi != null)
                 {
-                    // wrap via a small proxy if possible (try to attach via Delegate hooking is risky),
-                    // instead we create a small helper component to intercept calls if they call a public event.
-                    // As fallback, if method is public and takes no parameters, we create a Button proxy on same GO.
+                    // If method is public and takes no parameters, add a proxy invoker for easy wiring.
                     if (mi.GetParameters().Length == 0 && mi.IsPublic)
                     {
-                        // create a temporary Button proxy to call method then our hook
                         var go = m.gameObject;
                         var proxy = go.AddComponent<ModerationProxyInvoker>();
                         proxy.SetTarget(m, mi, firstQuestId);
@@ -78,8 +83,6 @@ public class PostModerationBridge : MonoBehaviour
                     }
                     else
                     {
-                        // If method has signature (string postId) or similar, we can't automatically know postId here.
-                        // We'll still log the presence for manual integration.
                         Debug.Log($"PostModerationBridge: found moderation method {t.Name}.{mn} (params: {mi.GetParameters().Length}) — consider calling QuestManager from that code.");
                     }
                 }
@@ -100,6 +103,120 @@ public class PostModerationBridge : MonoBehaviour
 
         var proxy = b.gameObject.AddComponent<ModerationButtonProxy>();
         proxy.Setup(b, firstQuestId);
+    }
+
+    /// <summary>
+    /// Initialize reflection references to QuestManager and its CompleteQuest(string) method.
+    /// Safe no-op if QuestManager type not found.
+    /// </summary>
+    static void TryInitQuestReflection()
+    {
+        if (_questReflectionInitialized) return;
+        lock (_qrLock)
+        {
+            if (_questReflectionInitialized) return;
+            try
+            {
+                // look across all loaded assemblies for a type named "QuestManager"
+                var type = AppDomain.CurrentDomain.GetAssemblies()
+                            .SelectMany(a =>
+                            {
+                                try { return a.GetTypes(); } catch { return new Type[0]; }
+                            })
+                            .FirstOrDefault(t => string.Equals(t.Name, "QuestManager", StringComparison.Ordinal));
+                if (type == null)
+                {
+                    _questReflectionInitialized = true; // avoid repeated costly searches
+                    Debug.Log("PostModerationBridge: QuestManager type not found via reflection.");
+                    return;
+                }
+
+                // try find static Instance property or field
+                var pi = type.GetProperty("Instance", BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                if (pi != null)
+                {
+                    _questManagerInstance = pi.GetValue(null);
+                }
+                else
+                {
+                    var fi = type.GetField("Instance", BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                    if (fi != null)
+                        _questManagerInstance = fi.GetValue(null);
+                }
+
+                // try to find CompleteQuest(string) method
+                _questCompleteMethod = type.GetMethod("CompleteQuest", BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic, null, new Type[] { typeof(string) }, null);
+                if (_questCompleteMethod == null)
+                {
+                    // fallback: search any method named CompleteQuest with 1 parameter
+                    _questCompleteMethod = type.GetMethods(BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic)
+                                               .FirstOrDefault(m => m.Name == "CompleteQuest" && m.GetParameters().Length == 1);
+                }
+
+                _questReflectionInitialized = true;
+                Debug.Log($"PostModerationBridge: QuestManager reflection init: type={(type!=null?type.FullName:"null")}, instance={_questManagerInstance!=null}, method={_questCompleteMethod!=null}");
+            }
+            catch (Exception ex)
+            {
+                _questReflectionInitialized = true;
+                Debug.LogWarning("PostModerationBridge: reflection init failed: " + ex);
+            }
+        }
+    }
+
+    /// <summary>
+    /// Try to complete quest via reflection. No-ops if QuestManager not available.
+    /// </summary>
+    public static void TryCompleteQuest(string questId)
+    {
+        TryInitQuestReflection();
+        if (_questCompleteMethod == null)
+        {
+            // couldn't find method (maybe QuestManager missing); log minimally
+            // Debug.Log("PostModerationBridge: cannot complete quest — method not found.");
+            return;
+        }
+
+        // if instance null, try to get it again (some assemblies may initialize later)
+        if (_questManagerInstance == null)
+        {
+            // if property exists on type, re-fetch
+            var type = _questCompleteMethod.DeclaringType;
+            var pi = type.GetProperty("Instance", BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+            if (pi != null) _questManagerInstance = pi.GetValue(null);
+            else
+            {
+                var fi = type.GetField("Instance", BindingFlags.Static | BindingFlags.Public | BindingFlags.NonPublic);
+                if (fi != null) _questManagerInstance = fi.GetValue(null);
+            }
+        }
+
+        try
+        {
+            if (_questManagerInstance != null)
+            {
+                _questCompleteMethod.Invoke(_questManagerInstance, new object[] { questId });
+                Debug.Log($"PostModerationBridge: Completed quest (via reflection) {questId}");
+            }
+            else
+            {
+                // maybe CompleteQuest is static
+                if (_questCompleteMethod.IsStatic)
+                {
+                    _questCompleteMethod.Invoke(null, new object[] { questId });
+                    Debug.Log($"PostModerationBridge: Completed quest (static method) {questId}");
+                }
+                else
+                {
+                    // no instance available; give up silently
+                    // Debug.Log("PostModerationBridge: QuestManager instance not available yet.");
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Debug.LogWarning("PostModerationBridge: CompleteQuest invoke failed: " + ex);
+        }
     }
 }
 
@@ -129,19 +246,11 @@ public class ModerationButtonProxy : MonoBehaviour
 
     void OnClickedProxy()
     {
-        // Delay our hook slightly to let original handlers run (they are invoked first),
-        // but we still call CompleteQuest regardless (idempotent).
         try
         {
-            if (QuestManager.Instance != null)
-            {
-                QuestManager.Instance.CompleteQuest(questId);
-                Debug.Log($"ModerationButtonProxy: Completed quest {questId} after button {target.gameObject.name} clicked.");
-            }
-            else
-            {
-                Debug.LogWarning("ModerationButtonProxy: QuestManager not present; cannot complete quest.");
-            }
+            // Try to complete via reflection (safe if QuestManager not compiled here)
+            PostModerationBridge.TryCompleteQuest(questId);
+            Debug.Log($"ModerationButtonProxy: attempted to complete quest {questId} after button {target.gameObject.name} clicked.");
         }
         catch (Exception ex)
         {
@@ -182,8 +291,8 @@ public class ModerationProxyInvoker : MonoBehaviour
 
         try
         {
-            QuestManager.Instance?.CompleteQuest(questId);
-            Debug.Log($"ModerationProxyInvoker: Completed quest {questId} after invoking {targetMB?.GetType().Name}.{targetMethod?.Name}");
+            PostModerationBridge.TryCompleteQuest(questId);
+            Debug.Log($"ModerationProxyInvoker: attempted to complete quest {questId} after invoking {targetMB?.GetType().Name}.{targetMethod?.Name}");
         }
         catch (Exception ex)
         {
