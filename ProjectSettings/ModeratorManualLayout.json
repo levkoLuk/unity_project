@@ -1,0 +1,3667 @@
+{
+    "entries": [
+        {
+            "path": "WorkstationId[0]",
+            "anchorMin": {
+                "x": 0.6499999761581421,
+                "y": 0.7799999713897705
+            },
+            "anchorMax": {
+                "x": 0.9700000286102295,
+                "y": 0.949999988079071
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "WallpaperVeil[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Wallpaper[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Toast[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -176.0,
+                "y": -53.0
+            },
+            "sizeDelta": {
+                "x": 308.0,
+                "y": 58.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Toast[0]/Accent[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 2.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Toast[0]/Message[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 4.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -28.0,
+                "y": -8.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserIcon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 66.0,
+                "y": -78.0
+            },
+            "sizeDelta": {
+                "x": 96.0,
+                "y": 102.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserIcon[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserIcon[0]/Symbol[0]",
+            "anchorMin": {
+                "x": 0.18000000715255738,
+                "y": 0.3199999928474426
+            },
+            "anchorMax": {
+                "x": 0.8199999928474426,
+                "y": 0.9399999976158142
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserIcon[0]/Name[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.3400000035762787
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "SocialIcon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 66.0,
+                "y": -190.0
+            },
+            "sizeDelta": {
+                "x": 96.0,
+                "y": 102.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "SocialIcon[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "SocialIcon[0]/Symbol[0]",
+            "anchorMin": {
+                "x": 0.18000000715255738,
+                "y": 0.3199999928474426
+            },
+            "anchorMax": {
+                "x": 0.8199999928474426,
+                "y": 0.9399999976158142
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "SocialIcon[0]/Name[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.3400000035762787
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Taskbar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 21.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 42.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Taskbar[0]/Terminal[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.30000001192092898,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 8.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -16.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "Taskbar[0]/Clock[0]",
+            "anchorMin": {
+                "x": 0.6000000238418579,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -8.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -16.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]",
+            "anchorMin": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchorMax": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -204.93179321289063,
+                "y": 25.372100830078126
+            },
+            "sizeDelta": {
+                "x": 660.0,
+                "y": 610.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -26.0
+            },
+            "sizeDelta": {
+                "x": -8.0,
+                "y": 44.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/ActiveBrowserTab[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 132.39999389648438,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 248.0,
+                "y": -4.0
+            },
+            "localScale": {
+                "x": 1.100000023841858,
+                "y": 1.100000023841858,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/ActiveBrowserTab[0]/AppMark[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 26.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -10.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/Title[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 139.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 153.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/TabClose[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 234.0,
+                "y": -0.000030517578125
+            },
+            "sizeDelta": {
+                "x": 32.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/MinimizeDecor[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -106.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/MinimizeDecor[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/MaximizeDecor[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -66.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/MaximizeDecor[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/Close[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -26.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/TitleBar[0]/Close[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -24.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -62.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -29.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 58.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Back[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 27.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 39.0,
+                "y": -16.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Back[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -6.0,
+                "y": -6.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Forward[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 74.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 39.0,
+                "y": -16.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Forward[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -6.0,
+                "y": -6.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Reload[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 121.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 39.0,
+                "y": -16.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Reload[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -6.0,
+                "y": -6.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Lock[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 164.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 27.0,
+                "y": -22.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Address[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 84.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -192.0,
+                "y": -16.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/Toolbar[0]/Address[0]/URL[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 2.5,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -21.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -32.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": -64.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/Brand[0]",
+            "anchorMin": {
+                "x": 0.18000000715255738,
+                "y": 0.6700000166893005
+            },
+            "anchorMax": {
+                "x": 0.8199999928474426,
+                "y": 0.8700000047683716
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/BrandUnderline[0]",
+            "anchorMin": {
+                "x": 0.3799999952316284,
+                "y": 0.6700000166893005
+            },
+            "anchorMax": {
+                "x": 0.6200000047683716,
+                "y": 0.6800000071525574
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/SearchBox[0]",
+            "anchorMin": {
+                "x": 0.1599999964237213,
+                "y": 0.5299999713897705
+            },
+            "anchorMax": {
+                "x": 0.7400000095367432,
+                "y": 0.6399999856948853
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/SearchBox[0]/Placeholder[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -26.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/Search[0]",
+            "anchorMin": {
+                "x": 0.7549999952316284,
+                "y": 0.5299999713897705
+            },
+            "anchorMax": {
+                "x": 0.8399999737739563,
+                "y": 0.6399999856948853
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/Search[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -16.0,
+                "y": -16.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/MapSearchResult[0]",
+            "anchorMin": {
+                "x": 0.3400000035762787,
+                "y": 0.38999998569488528
+            },
+            "anchorMax": {
+                "x": 0.6600000262260437,
+                "y": 0.47999998927116396
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/MapSearchResult[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "BrowserWindow[0]/Content[0]/BrowserPage[0]/MapSearchResult[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]",
+            "anchorMin": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchorMax": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 21.0
+            },
+            "sizeDelta": {
+                "x": 1350.9599609375,
+                "y": 683.6400146484375
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -26.0
+            },
+            "sizeDelta": {
+                "x": -8.0,
+                "y": 44.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/AppMark[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 25.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -10.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/Title[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -49.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -202.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/MinimizeDecor[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -106.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/MinimizeDecor[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/MaximizeDecor[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -66.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/MaximizeDecor[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/Close[0]",
+            "anchorMin": {
+                "x": 1.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -26.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 36.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.5,
+                "y": 1.5,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/TitleBar[0]/Close[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -24.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -62.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePaper[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.8899999856948853
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.18000000715255738,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[1]",
+            "anchorMin": {
+                "x": 0.18000000715255738,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.36000001430511477,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[1]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[2]",
+            "anchorMin": {
+                "x": 0.36000001430511477,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.550000011920929,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[2]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[3]",
+            "anchorMin": {
+                "x": 0.550000011920929,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 0.7300000190734863,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/NavIcon[3]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -14.0,
+                "y": -14.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileNavigation[0]/ModeratorMode[0]",
+            "anchorMin": {
+                "x": 0.7300000190734863,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/Cover[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.6399999856948853
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.8899999856948853
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/Cover[0]/CoverArt[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/Cover[0]/CoverShade[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/Cover[0]/CoverLine[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.03500000014901161
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileAvatar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchoredPosition": {
+                "x": 103.0,
+                "y": -185.66000366210938
+            },
+            "sizeDelta": {
+                "x": 126.0,
+                "y": 126.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileAvatar[0]/Portrait[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -4.0,
+                "y": -4.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileIdentity[0]",
+            "anchorMin": {
+                "x": 0.25,
+                "y": 0.550000011920929
+            },
+            "anchorMax": {
+                "x": 0.7200000286102295,
+                "y": 0.6700000166893005
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -21.756999969482423
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileBanUser[0]",
+            "anchorMin": {
+                "x": 0.7699999809265137,
+                "y": 0.5649999976158142
+            },
+            "anchorMax": {
+                "x": 0.9700000286102295,
+                "y": 0.6349999904632568
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileBanUser[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileBanUser[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileFacts[0]",
+            "anchorMin": {
+                "x": 0.25,
+                "y": 0.49000000953674319
+            },
+            "anchorMax": {
+                "x": 0.9599999785423279,
+                "y": 0.550000011920929
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": -6.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileTabs[0]",
+            "anchorMin": {
+                "x": 0.029999999329447748,
+                "y": 0.4399999976158142
+            },
+            "anchorMax": {
+                "x": 0.9700000286102295,
+                "y": 0.5
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ActiveTab[0]",
+            "anchorMin": {
+                "x": 0.05000000074505806,
+                "y": 0.4399999976158142
+            },
+            "anchorMax": {
+                "x": 0.2199999988079071,
+                "y": 0.44699999690055849
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/UserBlockedBanner[0]",
+            "anchorMin": {
+                "x": 0.18000000715255738,
+                "y": 0.1599999964237213
+            },
+            "anchorMax": {
+                "x": 0.8199999928474426,
+                "y": 0.41999998688697817
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/UserBlockedBanner[0]/BlockedText[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.019999999552965165
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.4300000071525574
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": -4.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -64.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/PostAuthorAvatar[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "anchorMax": {
+                "x": 0.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 42.0,
+                "y": -44.0
+            },
+            "sizeDelta": {
+                "x": 52.0,
+                "y": 52.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/PostAuthorAvatar[0]/Portrait[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -4.0,
+                "y": -4.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/PostTitle[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.800000011920929
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 31.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -98.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostPhoto[0]",
+            "anchorMin": {
+                "x": 0.02500000037252903,
+                "y": 0.18000000715255738
+            },
+            "anchorMax": {
+                "x": 0.3700000047683716,
+                "y": 0.7599999904632568
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostPhoto[0]/Photo[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -10.0,
+                "y": -10.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfileBody[0]",
+            "anchorMin": {
+                "x": 0.4000000059604645,
+                "y": 0.4300000071525574
+            },
+            "anchorMax": {
+                "x": 0.9700000286102295,
+                "y": 0.75
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfileBody[0]/PostText[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostTime[0]",
+            "anchorMin": {
+                "x": 0.4000000059604645,
+                "y": 0.2800000011920929
+            },
+            "anchorMax": {
+                "x": 0.9700000286102295,
+                "y": 0.41999998688697817
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.02500000037252903
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 0.17000000178813935
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -24.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileSavePost[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.07999999821186066
+            },
+            "anchorMax": {
+                "x": 0.20999999344348908,
+                "y": 0.9200000166893005
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileSavePost[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileSavePost[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileComment[0]",
+            "anchorMin": {
+                "x": 0.22499999403953553,
+                "y": 0.07999999821186066
+            },
+            "anchorMax": {
+                "x": 0.49000000953674319,
+                "y": 0.9200000166893005
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileComment[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileComment[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileDeletePost[0]",
+            "anchorMin": {
+                "x": 0.5049999952316284,
+                "y": 0.07999999821186066
+            },
+            "anchorMax": {
+                "x": 0.699999988079071,
+                "y": 0.9200000166893005
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileDeletePost[0]/Icon[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileDeletePost[0]/Label[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfilePostActions[0]/ProfileCounters[0]",
+            "anchorMin": {
+                "x": 0.7099999785423279,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfileComments[0]",
+            "anchorMin": {
+                "x": 0.4099999964237213,
+                "y": 0.20000000298023225
+            },
+            "anchorMax": {
+                "x": 0.9800000190734863,
+                "y": 0.8100000023841858
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfilePost[0]/ProfileComments[0]/CommentsText[0]",
+            "anchorMin": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "anchorMax": {
+                "x": 1.0,
+                "y": 1.0
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": -32.0,
+                "y": -24.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileScrollbar[0]",
+            "anchorMin": {
+                "x": 0.9760000109672546,
+                "y": 0.019999999552965165
+            },
+            "anchorMax": {
+                "x": 0.9940000176429749,
+                "y": 0.8799999952316284
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "path": "ProfileWindow[0]/Content[0]/ProfileScrollbar[0]/ProfileScrollbarThumb[0]",
+            "anchorMin": {
+                "x": 0.11999999731779099,
+                "y": 0.47999998927116396
+            },
+            "anchorMax": {
+                "x": 0.8799999952316284,
+                "y": 0.8199999928474426
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "anchoredPosition": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "sizeDelta": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "localScale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "localEulerAngles": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

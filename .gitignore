@@ -1,0 +1,64 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio / Rider / IDE
+.vscode/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+
+# Gradle / Android
+.gradle/
+*.apk
+*.aar
+*.keystore
+
+# Build output
+*.exe
+*.app
+
+# Unity cache / Asset store / model caches
+AssetStoreTools*
+
+# Large model/binary files — consider using Git LFS instead of storing in repo
+*.onnx
+*.pt
+*.gguf
+*.safetensors
+
+# Media / binary types (optional: track via LFS)
+*.psd
+*.png
+*.jpg
+*.tga
+*.wav
+*.mp3
+*.ogg
+*.fbx
+*.blend
+
+# Keep .meta files (Unity needs them)
+!**/*.meta

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "quest.time_demo",
+  "title": "Проверка системы времени",
+  "description": "Безопасный пример расследования с событиями по времени.",
+  "autoStart": false,
+  "onStart": [],
+  "objectives": [
+    {
+      "id": "objective.wait_five_minutes",
+      "description": "Подождать пять игровых минут",
+      "required": true,
+      "condition": { "type": "after_minutes", "minutes": 5, "dateTime": "22.11.2034 00:00", "targetId": "", "negate": false },
+      "onComplete": [
+        { "type": "show_notification", "text": "Задача выполнена: прошло пять игровых минут", "targetId": "", "delayMinutes": 0 }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "event.minute_ten",
+      "fireOnce": true,
+      "condition": { "type": "after_minutes", "minutes": 10, "dateTime": "22.11.2034 00:00", "targetId": "", "negate": false },
+      "actions": [
+        { "type": "show_notification", "text": "Событие сработало через 10 игровых минут", "targetId": "", "delayMinutes": 0 }
+      ]
+    }
+  ],
+  "onComplete": [
+    { "type": "show_notification", "text": "Проверка системы времени завершена", "targetId": "", "delayMinutes": 0 }
+  ]
+}

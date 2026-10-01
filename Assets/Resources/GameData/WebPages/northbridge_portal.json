@@ -1,0 +1,76 @@
+{
+  "id": "page.northbridge_portal",
+  "title": "Нортбридж — городской портал",
+  "url": "https://northbridge.city/station",
+  "pageType": "городской портал",
+  "summary": "Справочная информация, новости и обсуждения жителей.",
+  "heading": "СТАНЦИЯ НОРТБРИДЖ",
+  "content": "Станция Нортбридж — крупный транспортный узел на севере города. Она соединяет старый рыночный квартал, деловой центр и жилые районы. Служебные входы и технические тоннели закрыты для посетителей.",
+  "imageResource": "",
+  "searchableKeywords": ["Станция Нортбридж", "Нортбридж", "Northbridge Station", "полиция", "свидетель"],
+  "inlineLinks": [],
+  "news": [
+    {
+      "id": "news.station_closure",
+      "title": "Станцию временно закрывали после происшествия",
+      "timestamp": "14 октября 2034 · 00:18",
+      "body": "Полиция временно закрыла станцию Нортбридж после сообщения из служебной зоны. Свидетель видел молодого фотографа, покидавшего территорию.",
+      "details": "Позднее @alex_92 опубликовал снимок, сделанный рядом со станцией Нортбридж той же ночью. Последний поезд высадил пассажиров, но платформу не открыли.",
+      "imageResource": "Art/Story/AlexNorthbridgePhoto",
+      "inlineLinks": [
+        {"label":"фотографа","targetPageId":"page.photographer","searchTerm":"","profileUsername":"","evidenceId":"evidence.photographer_seen"}
+      ],
+      "detailsLinks": [
+        {"label":"@alex_92","targetPageId":"","searchTerm":"","profileUsername":"@alex_92","evidenceId":"evidence.alex_near_northbridge"}
+      ],
+      "comments": [
+        {"username":"@nightwatcher","text":"Тёмная машина стояла у служебного входа ещё до закрытия Нортбриджа.","timestamp":"00:31"},
+        {"username":"@alex_92","text":"Я был снаружи. Внутрь станции Нортбридж не заходил.","timestamp":"01:02"}
+      ],
+      "evidenceIds": ["evidence.station_closed"]
+    },
+    {
+      "id": "news.police_records",
+      "title": "Полиция подтвердила закрытие станции",
+      "timestamp": "15 октября 2034 · 09:20",
+      "body": "В публичном журнале полиции указано: Нортбридж закрыли из-за происшествия в служебной зоне.",
+      "details": "Версия о плановых работах в записи отсутствует. Запись появилась утром после закрытия. Указанный код причины относится к происшествиям с ограничением доступа, а не к техническому обслуживанию.",
+      "imageResource": "",
+      "inlineLinks": [],
+      "detailsLinks": [],
+      "comments": [
+        {"username":"@civic_record","text":"В журнале указан другой код причины закрытия Нортбриджа.","timestamp":"09:34"}
+      ],
+      "evidenceIds": ["evidence.police_confirms_closure"]
+    },
+    {
+      "id": "news.witness_photo",
+      "title": "Свидетель описал человека с фотоаппаратом",
+      "timestamp": "14 октября 2034 · 23:58",
+      "body": "Очевидец сообщил, что фотограф покинул служебный вход станции Нортбридж.",
+      "details": "Фотограф направился к северному переулку. Через дорогу его ожидал неизвестный тёмный автомобиль. Описание человека слишком общее, чтобы установить личность.",
+      "imageResource": "",
+      "inlineLinks": [],
+      "detailsLinks": [],
+      "comments": [
+        {"username":"@oldsignal","text":"Нужно найти исходный снимок фотографа и точное время.","timestamp":"00:12"}
+      ],
+      "evidenceIds": ["evidence.photographer_seen", "evidence.october_witness"]
+    },
+    {
+      "id": "news.saved_post",
+      "title": "Пользователь сообщил о машине возле станции",
+      "timestamp": "18 октября 2034 · 19:40",
+      "body": "@nightwatcher опубликовал фотографию тёмного автомобиля возле станции Нортбридж. Публикация доступна на странице пользователя.",
+      "details": "Похожую машину видели у северного входа. Номер на снимке разобрать невозможно.",
+      "imageResource": "",
+      "inlineLinks": [
+        {"label":"@nightwatcher","targetPageId":"","searchTerm":"","profileUsername":"@nightwatcher","evidenceId":""}
+      ],
+      "detailsLinks": [],
+      "comments": [],
+      "evidenceIds": []
+    }
+  ],
+  "evidenceIds": []
+}

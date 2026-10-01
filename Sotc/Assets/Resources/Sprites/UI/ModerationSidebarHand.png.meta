@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1d727576fb9d2e84d99a711448921502
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6220554231866672419
+    second: ModerationSidebarHand_0
+  - first:
+      213: 6650437156356087533
+    second: ModerationSidebarHand_1
+  - first:
+      213: -8432140669875337724
+    second: ModerationSidebarHand_2
+  - first:
+      213: 977093391237711675
+    second: ModerationSidebarHand_3
+  - first:
+      213: 2199636015705115441
+    second: ModerationSidebarHand_4
+  - first:
+      213: -987500849830253831
+    second: ModerationSidebarHand_5
+  - first:
+      213: 7936826911089108470
+    second: ModerationSidebarHand_6
+  - first:
+      213: 7325566176917558450
+    second: ModerationSidebarHand_7
+  - first:
+      213: 2422369862190767656
+    second: ModerationSidebarHand_8
+  - first:
+      213: 4143803411993691025
+    second: ModerationSidebarHand_9
+  - first:
+      213: -7728933068794306506
+    second: ModerationSidebarHand_10
+  - first:
+      213: 6247863495830124541
+    second: ModerationSidebarHand_11
+  - first:
+      213: 6765501208229411558
+    second: ModerationSidebarHand_12
+  - first:
+      213: -4632804990539972128
+    second: ModerationSidebarHand_13
+  - first:
+      213: -2719272904203349429
+    second: ModerationSidebarHand_14
+  - first:
+      213: -3103790294710153225
+    second: ModerationSidebarHand_15
+  - first:
+      213: 4087521260829105195
+    second: ModerationSidebarHand_16
+  - first:
+      213: 2695365908306834886
+    second: ModerationSidebarHand_17
+  - first:
+      213: -2794227444722597051
+    second: ModerationSidebarHand_18
+  - first:
+      213: -2220406352386094179
+    second: ModerationSidebarHand_19
+  - first:
+      213: -7129508449993793920
+    second: ModerationSidebarHand_20
+  - first:
+      213: -4730098302189811262
+    second: ModerationSidebarHand_21
+  - first:
+      213: 311918119842343203
+    second: ModerationSidebarHand_22
+  - first:
+      213: -574605482203381767
+    second: ModerationSidebarHand_23
+  - first:
+      213: -967551802222462207
+    second: ModerationSidebarHand_24
+  - first:
+      213: 5398485640118982287
+    second: ModerationSidebarHand_25
+  - first:
+      213: 6905096681121589153
+    second: ModerationSidebarHand_26
+  - first:
+      213: 1080710948833476245
+    second: ModerationSidebarHand_27
+  - first:
+      213: 3896606121797046090
+    second: ModerationSidebarHand_28
+  - first:
+      213: 2798625656926267863
+    second: ModerationSidebarHand_29
+  - first:
+      213: -5223133337487925452
+    second: ModerationSidebarHand_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ModerationSidebarHand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 936
+        height: 1672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddab88f42e62ca9a0800000000000000
+      internalID: -6220554231866672419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_1
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1593
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed9a1bb591b4c50800000000000000
+      internalID: 6650437156356087533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1380
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c4f37cb40bfa80800000000000000
+      internalID: -8432140669875337724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_3
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1382
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b370b1133455f8d00800000000000000
+      internalID: 977093391237711675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b42475d4da68e10800000000000000
+      internalID: 2199636015705115441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1352
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faa8768531bb42f0800000000000000
+      internalID: -987500849830253831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1328
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f52a374606452e60800000000000000
+      internalID: 7936826911089108470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b499c910a3a9a560800000000000000
+      internalID: 7325566176917558450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1233
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1e7e2e8cfd9120800000000000000
+      internalID: 2422369862190767656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_9
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1208
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1938fe69f3fb18930800000000000000
+      internalID: 4143803411993691025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_10
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1211
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630eeb5d2505db490800000000000000
+      internalID: -7728933068794306506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1078
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7b5123fbed4b650800000000000000
+      internalID: 6247863495830124541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1074
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea7df3f083e3ed50800000000000000
+      internalID: 6765501208229411558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_13
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1066
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e145312868f4bfb0800000000000000
+      internalID: -4632804990539972128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1054
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b425d9173b3334ad0800000000000000
+      internalID: -2719272904203349429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1016
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0f7aeb2f1de4d0800000000000000
+      internalID: -3103790294710153225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1006
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c539b1eeac9b830800000000000000
+      internalID: 4087521260829105195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 923
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b350530dd76520800000000000000
+      internalID: 2695365908306834886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 851
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54389a781f8e839d0800000000000000
+      internalID: -2794227444722597051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 736
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b810dcf288f21e0800000000000000
+      internalID: -2220406352386094179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 720
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e59f6a6d5ee0d90800000000000000
+      internalID: -7129508449993793920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_21
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 669
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94c41c7a05b5eb0800000000000000
+      internalID: -4730098302189811262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 554
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e53c90e7245400800000000000000
+      internalID: 311918119842343203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_23
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 436
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff764bbb579608f0800000000000000
+      internalID: -574605482203381767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 367
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbdbe13c09292f0800000000000000
+      internalID: -967551802222462207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 328
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d65856164bea40800000000000000
+      internalID: 5398485640118982287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 280
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a72bf1c8d4d3df50800000000000000
+      internalID: 6905096681121589153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 24
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3812d1e47ffe00800000000000000
+      internalID: 1080710948833476245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f43576f96831630800000000000000
+      internalID: 3896606121797046090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9626c0537b6d620800000000000000
+      internalID: 2798625656926267863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ModerationSidebarHand_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f188427e3b387b0800000000000000
+      internalID: -5223133337487925452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ModerationSidebarHand_0: -6220554231866672419
+      ModerationSidebarHand_1: 6650437156356087533
+      ModerationSidebarHand_10: -7728933068794306506
+      ModerationSidebarHand_11: 6247863495830124541
+      ModerationSidebarHand_12: 6765501208229411558
+      ModerationSidebarHand_13: -4632804990539972128
+      ModerationSidebarHand_14: -2719272904203349429
+      ModerationSidebarHand_15: -3103790294710153225
+      ModerationSidebarHand_16: 4087521260829105195
+      ModerationSidebarHand_17: 2695365908306834886
+      ModerationSidebarHand_18: -2794227444722597051
+      ModerationSidebarHand_19: -2220406352386094179
+      ModerationSidebarHand_2: -8432140669875337724
+      ModerationSidebarHand_20: -7129508449993793920
+      ModerationSidebarHand_21: -4730098302189811262
+      ModerationSidebarHand_22: 311918119842343203
+      ModerationSidebarHand_23: -574605482203381767
+      ModerationSidebarHand_24: -967551802222462207
+      ModerationSidebarHand_25: 5398485640118982287
+      ModerationSidebarHand_26: 6905096681121589153
+      ModerationSidebarHand_27: 1080710948833476245
+      ModerationSidebarHand_28: 3896606121797046090
+      ModerationSidebarHand_29: 2798625656926267863
+      ModerationSidebarHand_3: 977093391237711675
+      ModerationSidebarHand_30: -5223133337487925452
+      ModerationSidebarHand_4: 2199636015705115441
+      ModerationSidebarHand_5: -987500849830253831
+      ModerationSidebarHand_6: 7936826911089108470
+      ModerationSidebarHand_7: 7325566176917558450
+      ModerationSidebarHand_8: 2422369862190767656
+      ModerationSidebarHand_9: 4143803411993691025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
